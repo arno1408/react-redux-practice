@@ -1,0 +1,120 @@
+.prod-content {
+  height: 600px;
+  width: 100vw;
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  overflow-x: hidden;
+}
+
+.prod-content-left {
+  text-align: center;
+}
+
+.txt-1,
+.txt-2,
+.txt-3 {
+  font-weight: bold;
+}
+
+.txt-3 {
+  position: relative;
+  top: 20px;
+  color: #56b280;
+}
+
+.main-head {
+  position: relative;
+  bottom: 70px;
+}
+
+.dollar {
+  color: #56b280;
+  position: relative;
+  bottom: 50px;
+}
+
+.qty {
+  font-weight: bold;
+  position: relative;
+  bottom: 30px;
+}
+
+.qty-btn {
+  display: inline-block;
+  text-align: center;
+  background-color: white;
+  color: black;
+  border: 1px solid #56b280;
+  height: 20px;
+  width: 50px;
+  position: relative;
+  right: 70px;
+}
+
+.radio-one {
+  position: relative;
+  left: 240px;
+  bottom: 100px;
+}
+
+.radio-button {
+  color: gray;
+  font-weight: bold;
+}
+
+.one-time {
+  position: relative;
+  left: 10px;
+  font-weight: bold;
+}
+
+.inner-bx {
+  border: 2px solid gray;
+  width: 400px;
+  border-radius: 10px;
+  position: relative;
+  left: 220px;
+  padding: 20px;
+  bottom: 70px;
+}
+
+.aligned-text {
+  font-weight: bold;
+  position: relative;
+  left: 10px;
+}
+
+.wk {
+  border: 1px solid gray;
+  width: 90px;
+  position: relative;
+  left: 270px;
+  bottom: 20px;
+  font-weight: bold;
+}
+
+.dmy-txt {
+  color: gray;
+}
+
+.dmy-txt-green {
+  color: #56b280;
+}
+
+.cart-btn {
+  width: 400px;
+  position: relative;
+  left: 220px;
+  bottom: 30px;
+}
+
+.info-box {
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 20px;
+  position: relative;
+  line-height: 30px;
+  top: 30px;
+}

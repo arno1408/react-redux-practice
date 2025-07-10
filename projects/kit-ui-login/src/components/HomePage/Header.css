@@ -1,0 +1,39 @@
+.header {
+  height: 705px;
+  width: 100%;
+  background-image: url("https://s3-alpha-sig.figma.com/img/ebd1/10d2/3eed16e77028dca771dbb8382ad6b9c3?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UvnuJdnfiLskypB5jxePjhEdULLucBUy1Hv~-9fEv3xkgvW2SfBTwEMGGT9T-i6~HfsPDQRuAxQhK3ykmJVnwF1AwHF9gQbF9ZQbNiga2Ucz87ht3YeWiwJPmA6nOdukeybgIpz~aqyKbzIRlNNijKg1Ttb3FIwyKJZkwA~TQKOsCpA-5JT~kDro7b9Z1jXrDNuJFt8~5UGCxMjdONNlyiDHIAx219mnn8A0q2mL7ZAHMI56cJXBz-bJWUNy5HwrFyCEGx~xBSfYZWRiWe6eQd~IxfY~KdTTs5v9xov6ErLyDkOV9H6sIpNjHO2QhRIkeR6v8gIq2ZvRYHjZ3j~MIA__");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0 -840px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 730px;
+  height: 349px;
+  background-color: #f7f8fa; /* Background color with opacity */
+  opacity: 0.8;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around; /* To evenly space the elements vertically */
+  align-items: center;
+}
+
+.content {
+  width: 540px;
+  height: 168px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+}

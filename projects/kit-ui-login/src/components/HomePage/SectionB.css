@@ -1,0 +1,33 @@
+.sectionB {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 800px;
+  background-color: rgba(247, 248, 250, 1);
+}
+
+.left-content {
+  width: calc(50% - 20px); /* Adjust as needed */
+  padding: 20px;
+}
+
+.right-content {
+  width: 540px;
+  height: 377px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul li {
+  list-style: none;
+  margin-top: 30px;
+}
+
+.soy-wax {
+  position: relative;
+  top: 13px;
+}

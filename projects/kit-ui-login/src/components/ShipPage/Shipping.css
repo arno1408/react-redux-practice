@@ -1,0 +1,254 @@
+.auth-contain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  overflow: hidden;
+}
+
+.auth-gray {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  height: 100vh;
+  width: 50vw;
+  background-color: lightgray;
+}
+
+.auth-white {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  height: 100vh;
+  width: 50vw;
+  padding-top: 300px;
+}
+
+.sml-img-2 {
+  position: relative;
+  right: 200px;
+  bottom: 100px;
+}
+
+.smc-small {
+  position: relative;
+  bottom: 180px;
+}
+
+.dol-gray-green {
+  position: relative;
+  color: #56b280;
+  bottom: 170px;
+  right: 65px;
+}
+
+.hr-gray {
+  width: 400px;
+  color: #56b280;
+}
+
+.coup {
+  border: 1px solid gray;
+  width: 250px;
+  height: 40px;
+  position: relative;
+  right: 80px;
+}
+
+.add-gray {
+  background-color: darkgray;
+  position: relative;
+  left: 150px;
+  bottom: 60px;
+  width: 160px;
+}
+
+.subto {
+  position: relative;
+  right: 160px;
+  bottom: 20px;
+  font-weight: bold;
+}
+
+.dol-gray-sm {
+  position: relative;
+  font-weight: bold;
+  left: 180px;
+  bottom: 60px;
+}
+
+.ship {
+  font-weight: bold;
+  position: relative;
+  right: 160px;
+  top: 20px;
+}
+
+.drk-gray {
+  font-weight: bold;
+  position: relative;
+  left: 150px;
+  bottom: 20px;
+}
+
+.to-gray {
+  position: relative;
+  right: 170px;
+  font-weight: bold;
+}
+
+.dol-tot {
+  position: relative;
+  left: 180px;
+  bottom: 30px;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.logo-white {
+  position: relative;
+  bottom: 280px;
+  right: 200px;
+}
+
+.lg-txt {
+  position: relative;
+  color: #56b280;
+  left: 60px;
+  bottom: 30px;
+}
+
+.sp-green {
+  position: relative;
+  right: 200px;
+  bottom: 280px;
+  color: #56b280;
+}
+
+.sp-bold {
+  position: relative;
+  bottom: 300px;
+  right: 120px;
+  color: #56b280;
+  font-weight: 400;
+}
+
+.ship-txt {
+  position: relative;
+  bottom: 320px;
+  right: 27px;
+  font-weight: bold;
+}
+
+.pay-txt {
+  position: relative;
+  left: 70px;
+  bottom: 338px;
+}
+
+.conta {
+  position: relative;
+  right: 175px;
+  bottom: 90px;
+}
+
+.add-ress {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  position: relative;
+  bottom: 300px;
+  right: 20px;
+  border-radius: 10px;
+  border: 1px solid lightgray;
+}
+
+.add-ress hr {
+  width: 450px;
+  position: relative;
+  top: 30px;
+  left: 20px;
+}
+
+.con-gray {
+  position: relative;
+  right: 60px;
+  top: 15px;
+  color: gray;
+}
+
+.con-mail {
+  position: relative;
+  top: 15px;
+  right: 40px;
+}
+
+.ed-green-one {
+  position: relative;
+  left: 70px;
+  top: 15px;
+  color: #56b280;
+}
+
+.con-gray-two {
+  position: relative;
+  right: 415px;
+  top: 30px;
+  color: gray;
+}
+
+.con-mail-two {
+  position: relative;
+  bottom: 8px;
+}
+
+.ed-green-two {
+  position: relative;
+  color: #56b280;
+  left: 85px;
+  bottom: 8px;
+}
+
+.ship-header {
+  position: relative;
+  bottom: 250px;
+  right: 150px;
+}
+
+.std-ship {
+  position: relative;
+  border: 1px solid lightgray;
+  padding: 20px;
+  width: 500px;
+  bottom: 240px;
+  right: 20px;
+}
+
+.std-ship-left {
+  position: relative;
+  right: 120px;
+}
+
+.free-std {
+  font-weight: bold;
+  position: relative;
+  left: 130px;
+}
+
+.bck-cart {
+  color: #56b280;
+  position: relative;
+  right: 170px;
+  bottom: 40px;
+}
+
+.go-ship {
+  width: 200px;
+  position: relative;
+  left: 180px;
+  bottom: 85px;
+}

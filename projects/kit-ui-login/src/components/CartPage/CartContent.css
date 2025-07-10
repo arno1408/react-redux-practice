@@ -1,0 +1,129 @@
+.cart-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  overflow: hidden;
+  background-color: white;
+  height: 600px;
+  margin-top: 70px;
+}
+
+.hd-above {
+  position: relative;
+  bottom: 100px;
+}
+
+.back-link {
+  position: relative;
+  bottom: 70px;
+  color: #56b280;
+}
+
+.pro {
+  font-weight: bold;
+  position: relative;
+  right: 440px;
+  bottom: 10px;
+}
+
+.pri {
+  font-weight: bold;
+  position: relative;
+  left: 150px;
+  bottom: 10px;
+}
+
+.qua {
+  font-weight: bold;
+  position: relative;
+  left: 300px;
+  bottom: 10px;
+}
+
+.to {
+  font-weight: bold;
+  position: relative;
+  left: 430px;
+  bottom: 10px;
+}
+
+.card-small {
+  height: 200px;
+  width: 200px;
+}
+
+.sml-pic {
+  position: relative;
+  right: 400px;
+}
+
+.spi-head {
+  position: relative;
+  right: 250px;
+}
+
+.rmv {
+  position: relative;
+  right: 410px;
+  bottom: 70px;
+  color: #56b280;
+}
+
+.dol-1 {
+  position: relative;
+  left: 460px;
+  bottom: 70px;
+  font-weight: bold;
+}
+
+.dol-2 {
+  position: relative;
+  right: 30px;
+  bottom: 70px;
+  font-weight: bold;
+}
+
+.qty-again {
+  display: inline-block;
+  text-align: center;
+  background-color: white;
+  color: black;
+  border: 1px solid #56b280;
+  height: 20px;
+  width: 50px;
+  position: relative;
+  bottom: 70px;
+  left: 230px;
+}
+
+.sb-to {
+  position: relative;
+  left: 150px;
+}
+
+.dol-to {
+  position: relative;
+  left: 280px;
+  bottom: 30px;
+}
+
+.tx-gray {
+  color: gray;
+  position: relative;
+  display: inline-block;
+  left: 240px;
+  bottom: 40px;
+}
+
+.chk-btn {
+  position: relative;
+  left: 340px;
+  bottom: 70px;
+  width: 180px;
+}
+
+.hr-gray {
+  color: lightgray;
+}

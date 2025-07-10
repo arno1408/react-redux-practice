@@ -1,0 +1,9 @@
+.header-text {
+  margin-top: 10px;
+}
+
+.text {
+  margin-top: 20px;
+  position: relative;
+  bottom: 15px;
+}

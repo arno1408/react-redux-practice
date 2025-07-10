@@ -1,0 +1,275 @@
+.auth-contain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  overflow: hidden;
+}
+
+.auth-gray {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  height: 100vh;
+  width: 50vw;
+  background-color: lightgray;
+}
+
+.auth-white {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  height: 100vh;
+  width: 50vw;
+  padding-top: 100px;
+}
+
+.sml-img-2 {
+  position: relative;
+  right: 200px;
+  bottom: 100px;
+}
+
+.smc-small {
+  position: relative;
+  bottom: 180px;
+}
+
+.dol-gray-green {
+  position: relative;
+  color: #56b280;
+  bottom: 170px;
+  right: 65px;
+}
+
+.hr-gray {
+  width: 400px;
+  color: #56b280;
+}
+
+.coup {
+  border: 1px solid gray;
+  width: 250px;
+  height: 40px;
+  position: relative;
+  right: 80px;
+}
+
+.add-gray {
+  background-color: darkgray;
+  position: relative;
+  left: 150px;
+  bottom: 60px;
+  width: 160px;
+}
+
+.subto {
+  position: relative;
+  right: 160px;
+  bottom: 20px;
+  font-weight: bold;
+}
+
+.dol-gray-sm {
+  position: relative;
+  font-weight: bold;
+  left: 180px;
+  bottom: 60px;
+}
+
+.ship {
+  font-weight: bold;
+  position: relative;
+  right: 160px;
+  top: 20px;
+}
+
+.drk-gray {
+  position: relative;
+  left: 100px;
+  bottom: 20px;
+}
+
+.to-gray {
+  position: relative;
+  right: 170px;
+  font-weight: bold;
+}
+
+.dol-tot {
+  position: relative;
+  left: 180px;
+  bottom: 30px;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.logo-white {
+  position: relative;
+  bottom: 70px;
+  right: 200px;
+}
+
+.lg-txt {
+  position: relative;
+  color: #56b280;
+  left: 60px;
+  bottom: 30px;
+}
+
+.sp-green {
+  position: relative;
+  right: 200px;
+  bottom: 70px;
+  color: #56b280;
+}
+
+.sp-bold {
+  position: relative;
+  bottom: 89.5px;
+  right: 120px;
+  font-weight: bold;
+}
+
+.ship-txt {
+  position: relative;
+  bottom: 108px;
+  right: 27px;
+}
+
+.pay-txt {
+  position: relative;
+  left: 70px;
+  bottom: 127px;
+}
+
+.conta {
+  position: relative;
+  right: 175px;
+  bottom: 90px;
+}
+
+.do-you {
+  position: relative;
+  left: 150px;
+  bottom: 113px;
+}
+
+.lgn-green {
+  color: #56b280;
+}
+
+.em-mob {
+  position: relative;
+  width: 500px;
+  height: 40px;
+  left: 30px;
+  bottom: 90px;
+}
+
+.add-me {
+  position: relative;
+  bottom: 80px;
+  right: 15px;
+}
+
+.ship-add {
+  position: relative;
+  right: 110px;
+  bottom: 50px;
+}
+
+.nam-white {
+  position: relative;
+  width: 230px;
+  height: 40px;
+  right: 105px;
+  bottom: 40px;
+}
+
+.nam-sec {
+  position: relative;
+  width: 230px;
+  height: 40px;
+  left: 160px;
+  bottom: 72px;
+}
+
+.nam-add {
+  position: relative;
+  width: 500px;
+  height: 40px;
+  left: 30px;
+  bottom: 60px;
+}
+
+.ship-note {
+  position: relative;
+  width: 500px;
+  height: 40px;
+  right: -30px;
+  bottom: 40px;
+}
+
+.city {
+  position: relative;
+  width: 150px;
+  height: 40px;
+  right: 145px;
+  bottom: 20px;
+}
+
+.po-code {
+  position: relative;
+  width: 150px;
+  height: 40px;
+  top: 100px;
+}
+
+.provi {
+  position: relative;
+  width: 150px;
+  height: 40px;
+  left: 30px;
+  bottom: 80px;
+}
+
+.country {
+  position: relative;
+  width: 150px;
+  height: 40px;
+  left: 200px;
+  bottom: 110px;
+}
+
+.con-2 {
+  position: relative;
+  height: 40px;
+  width: 500px;
+  left: 30px;
+  bottom: 90px;
+}
+
+.chk-2 {
+  position: relative;
+  bottom: 80px;
+  right: 20px;
+}
+
+.bck-cart {
+  color: #56b280;
+  position: relative;
+  right: 170px;
+  bottom: 40px;
+}
+
+.go-ship {
+  width: 200px;
+  position: relative;
+  left: 180px;
+  bottom: 85px;
+}

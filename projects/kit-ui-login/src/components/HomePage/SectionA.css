@@ -1,0 +1,27 @@
+.sec-a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 1111px;
+  height: 650px;
+  background-color: white;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+Title {
+  margin-bottom: 50px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.img {
+  position: relative;
+  right: 25px;
+  bottom: 20px;
+}

@@ -1,0 +1,291 @@
+.auth-contain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  overflow: hidden;
+}
+
+.auth-gray {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  height: 100vh;
+  width: 50vw;
+  background-color: lightgray;
+}
+
+.auth-white {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  height: 100vh;
+  width: 50vw;
+  padding-top: 400px;
+}
+
+.sml-img-2 {
+  position: relative;
+  right: 200px;
+  bottom: 100px;
+}
+
+.smc-small {
+  position: relative;
+  bottom: 180px;
+}
+
+.dol-gray-green {
+  position: relative;
+  color: #56b280;
+  bottom: 170px;
+  right: 65px;
+}
+
+.hr-gray {
+  width: 400px;
+  color: #56b280;
+}
+
+.coup {
+  border: 1px solid gray;
+  width: 250px;
+  height: 40px;
+  position: relative;
+  right: 80px;
+}
+
+.add-gray {
+  background-color: darkgray;
+  position: relative;
+  left: 150px;
+  bottom: 60px;
+  width: 160px;
+}
+
+.subto {
+  position: relative;
+  right: 160px;
+  bottom: 20px;
+  font-weight: bold;
+}
+
+.dol-gray-sm {
+  position: relative;
+  font-weight: bold;
+  left: 180px;
+  bottom: 60px;
+}
+
+.ship {
+  font-weight: bold;
+  position: relative;
+  right: 160px;
+  top: 20px;
+}
+
+.drk-gray {
+  font-weight: bold;
+  position: relative;
+  left: 150px;
+  bottom: 20px;
+}
+
+.to-gray {
+  position: relative;
+  right: 170px;
+  font-weight: bold;
+}
+
+.dol-tot {
+  position: relative;
+  left: 180px;
+  bottom: 30px;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.logo-white {
+  position: relative;
+  bottom: 280px;
+  right: 200px;
+}
+
+.lg-txt {
+  position: relative;
+  color: #56b280;
+  left: 60px;
+  bottom: 30px;
+}
+
+.sp-green {
+  position: relative;
+  right: 200px;
+  bottom: 280px;
+  color: #56b280;
+}
+
+.sp-bold {
+  position: relative;
+  bottom: 300px;
+  right: 120px;
+  color: #56b280;
+  font-weight: 400;
+}
+
+.ship-txt {
+  position: relative;
+  bottom: 320px;
+  right: 27px;
+  color: #56b280;
+  font-weight: 400;
+}
+
+.pay-txt {
+  position: relative;
+  left: 70px;
+  bottom: 338px;
+  font-weight: bold;
+}
+
+.chk-cnfrm {
+  color: #56b280;
+  position: relative;
+  bottom: 300px;
+}
+
+.pay-cnfrm {
+  position: relative;
+  bottom: 290px;
+}
+
+.ord-no {
+  color: #56b280;
+  position: relative;
+  bottom: 280px;
+}
+
+.ord-txt {
+  position: relative;
+  bottom: 250px;
+  color: gray;
+}
+
+.add-ress {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  position: relative;
+  bottom: 300px;
+  right: 20px;
+  border-radius: 10px;
+  border: 1px solid lightgray;
+}
+
+.add-ress hr {
+  width: 450px;
+  position: relative;
+  top: 30px;
+  left: 20px;
+}
+
+.con-gray {
+  position: relative;
+  right: 60px;
+  top: 15px;
+  color: gray;
+}
+
+.con-mail {
+  position: relative;
+  top: 15px;
+  right: 40px;
+}
+
+.ed-green-one {
+  position: relative;
+  left: 70px;
+  top: 15px;
+  color: #56b280;
+}
+
+.con-gray-two {
+  position: relative;
+  right: 415px;
+  top: 30px;
+  color: gray;
+}
+
+.con-mail-two {
+  position: relative;
+  bottom: 8px;
+}
+
+.ed-green-two {
+  position: relative;
+  color: #56b280;
+  left: 85px;
+  bottom: 8px;
+}
+
+.pay-met {
+  position: relative;
+  bottom: 260px;
+  right: 170px;
+}
+
+.credit-card {
+  width: 400px;
+  height: 500px;
+  background-color: white;
+  position: relative;
+  bottom: 250px;
+  right: 60px;
+}
+
+.tax-head {
+  position: relative;
+  bottom: 30px;
+  right: 60px;
+}
+.tax-info {
+  position: relative;
+  height: 300px;
+  width: 300px;
+  background-color: white;
+  bottom: 200px;
+  right: 110px;
+}
+
+.bill-address {
+  position: relative;
+  height: 300px;
+  width: 300px;
+  background-color: white;
+  bottom: 130px;
+  right: 108px;
+}
+
+.bill-head {
+  position: relative;
+  bottom: 30px;
+  right: 70px;
+}
+
+.bck-cart {
+  color: #56b280;
+  position: relative;
+  right: 190px;
+  bottom: 100px;
+}
+
+.go-ship {
+  width: 200px;
+  position: relative;
+  left: 140px;
+  bottom: 150px;
+}

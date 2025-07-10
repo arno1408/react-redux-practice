@@ -1,0 +1,31 @@
+.sec-d {
+  background-color: white;
+  height: 601px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.header2 {
+  position: relative;
+  top: 100px;
+}
+
+.row2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 150px;
+}
+
+Title {
+  margin-top: 100px;
+}
+
+.img1 {
+  position: relative;
+  right: 30px;
+  bottom: 40px;
+}

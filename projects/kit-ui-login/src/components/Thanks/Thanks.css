@@ -1,0 +1,190 @@
+.auth-contain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  overflow: hidden;
+}
+
+.auth-gray {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  height: 100vh;
+  width: 50vw;
+  background-color: lightgray;
+}
+
+.auth-white {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  height: 100vh;
+  width: 50vw;
+  padding-top: 300px;
+}
+
+.sml-img-2 {
+  position: relative;
+  right: 200px;
+  bottom: 100px;
+}
+
+.smc-small {
+  position: relative;
+  bottom: 180px;
+}
+
+.dol-gray-green {
+  position: relative;
+  color: #56b280;
+  bottom: 170px;
+  right: 65px;
+}
+
+.hr-gray {
+  width: 400px;
+  color: #56b280;
+}
+
+.coup {
+  border: 1px solid gray;
+  width: 250px;
+  height: 40px;
+  position: relative;
+  right: 80px;
+}
+
+.add-gray {
+  background-color: darkgray;
+  position: relative;
+  left: 150px;
+  bottom: 60px;
+  width: 160px;
+}
+
+.subto {
+  position: relative;
+  right: 160px;
+  bottom: 20px;
+  font-weight: bold;
+}
+
+.dol-gray-sm {
+  position: relative;
+  font-weight: bold;
+  left: 180px;
+  bottom: 60px;
+}
+
+.ship {
+  font-weight: bold;
+  position: relative;
+  right: 160px;
+  top: 20px;
+}
+
+.drk-gray {
+  font-weight: bold;
+  position: relative;
+  left: 150px;
+  bottom: 20px;
+}
+
+.to-gray {
+  position: relative;
+  right: 170px;
+  font-weight: bold;
+}
+
+.dol-tot {
+  position: relative;
+  left: 180px;
+  bottom: 30px;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.logo-white {
+  position: relative;
+  bottom: 280px;
+  right: 200px;
+}
+
+.lg-txt {
+  position: relative;
+  color: #56b280;
+  left: 60px;
+  bottom: 30px;
+}
+
+.sp-green {
+  position: relative;
+  right: 200px;
+  bottom: 280px;
+  color: #56b280;
+}
+
+.sp-bold {
+  position: relative;
+  bottom: 300px;
+  right: 120px;
+  color: #56b280;
+  font-weight: 400;
+}
+
+.ship-txt {
+  position: relative;
+  bottom: 320px;
+  right: 27px;
+  color: #56b280;
+  font-weight: 400;
+}
+
+.pay-txt {
+  position: relative;
+  left: 70px;
+  bottom: 338px;
+  font-weight: bold;
+}
+
+.chk-cnfrm {
+  color: #56b280;
+  position: relative;
+  bottom: 300px;
+}
+
+.pay-cnfrm {
+  position: relative;
+  bottom: 290px;
+}
+
+.ord-no {
+  color: #56b280;
+  position: relative;
+  bottom: 280px;
+}
+
+.ord-txt {
+  position: relative;
+  bottom: 250px;
+  color: gray;
+}
+
+.bck-cart {
+  color: #56b280;
+  position: relative;
+  right: -10px;
+  bottom: 140px;
+}
+
+.go-ship {
+  width: 200px;
+  position: relative;
+  left: 10px;
+  bottom: 256px;
+}
